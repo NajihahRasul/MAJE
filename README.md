@@ -9,7 +9,7 @@ Language Use :	PHP, Javascript-Ajax
 Platform Use:	Notepad++
 
 
-Screenshots :
+# Screenshots :
  
 Figure 1 : Home page of MAJE Online Clothing System
  
