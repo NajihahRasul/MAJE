@@ -11,19 +11,22 @@ Platform Use:	Notepad++
 
 # Screenshots :
  
+ ![1](https://user-images.githubusercontent.com/39667828/49346558-65b7af00-f6cf-11e8-82f2-a516442f6908.png)
 Figure 1 : Home page of MAJE Online Clothing System
  
+ ![2](https://user-images.githubusercontent.com/39667828/49346559-66504580-f6cf-11e8-810b-040c79651de8.png)
 Figure 2 : View all collection of clothing MAJE Online Clothing System
 
- 
+ ![3](https://user-images.githubusercontent.com/39667828/49346560-66504580-f6cf-11e8-94ae-2025db88a424.png)
 Figure 3 : View clothing detail in MAJE Online Clothing System
 
- 
+![4](https://user-images.githubusercontent.com/39667828/49346561-66e8dc00-f6cf-11e8-97f8-0547ed87ff7f.png)
 Figure 4 : Shopping cart page in MAJE Online Clothing System
 
- 
+![5](https://user-images.githubusercontent.com/39667828/49346562-67817280-f6cf-11e8-9011-040f655416ee.png)
 Figure 5: Login page in MAJE Online Clothing System
  
+ ![6](https://user-images.githubusercontent.com/39667828/49346556-65b7af00-f6cf-11e8-9188-b05cc43b020b.png)
 Figure 6: My Account in MAJE Online Clothing System
 
 # About the system :
